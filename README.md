@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m @crypt0walker<br>👀 I’m interested in SDE Role<br>🌱 I’m currently learning Java skill set<br>📫 How to reach me jianbin.woo@gmail.com<br>😄 Hi, I'm an under postgraduate student studying Cybersecurity. 
+👋 Hi, I’m @crypt0walker<br>👀 I’m interested in SDE Role<br>🌱 I’m currently learning Java skill set<br>😄I'm an under postgraduate student studying Cybersecurity. 
 
 # 💻 Tech Stack:
 
@@ -19,7 +19,8 @@
 </p>
 
 # 📚  Leetcode Stats: 
-![](https://leetcard.jacoblin.cool/crypt0walker?ext=heatmap&site=cn)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/crypt0walker?theme=transparent&site=cn)
 
 ## 🏆 GitHub Trophies
 
