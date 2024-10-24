@@ -19,8 +19,7 @@
 </p>
 
 # 📚  Leetcode Stats: 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/crypt0walker?theme=transparent&site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/crypt0walker?theme=transparent&ext=heatmap&site=cn)
 
 ## 🏆 GitHub Trophies
 
