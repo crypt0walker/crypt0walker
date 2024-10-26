@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/-Java-red" alt="Java" style="zoom:80%;" />![Spring](https://img.shields.io/badge/-Spring-green)![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)![MySQL](https://img.shields.io/badge/-MySQL-blue)![Redis](https://img.shields.io/badge/-Redis-darkred)![Python](https://img.shields.io/badge/-Python-yellow)![Mybatis](https://img.shields.io/badge/-Mybatis-lightblue)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange)![Kafka](https://img.shields.io/badge/-Kafka-black)![Zookeeper](https://img.shields.io/badge/-Zookeeper-darkblue)![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen)![Golang](https://img.shields.io/badge/-Golang-blue)![Python](https://img.shields.io/badge/-Python-green)
+<img src="https://img.shields.io/badge/-Java-red" alt="Java" style="zoom:80%;" />![Spring](https://img.shields.io/badge/-Spring-green)![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)![MySQL](https://img.shields.io/badge/-MySQL-blue)![Redis](https://img.shields.io/badge/-Redis-darkred)![Python](https://img.shields.io/badge/-Python-yellow)![Mybatis](https://img.shields.io/badge/-Mybatis-lightblue)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange)![Kafka](https://img.shields.io/badge/-Kafka-black)![Zookeeper](https://img.shields.io/badge/-Zookeeper-darkblue)![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen)![Golang](https://img.shields.io/badge/-Golang-blue)
 
 # 📊 GitHub Stats:
 <p>
