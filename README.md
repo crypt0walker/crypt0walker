@@ -1,12 +1,27 @@
 # 💫 About Me:
 
 👋 Hi, I’m @crypt0walkerr<br>
-👀 I’m passionate about software development, focusing on technologies like Docker, Kubernetes, cloud-native systems, Golang, and blockchain. I’m also exploring their applications in emerging areas such as Web3, finance, and social governance.<br>
+👀 I’m passionate about software development, focusing on Docker, cloud-native systems, Golang, Java, and blockchain.<br>
+🌍 I’m also interested in exploring how technologies apply to Web3, finance, and social governance.<br>
 🌱 Currently, I’m expanding my skills in Java development.<br>
 😄 I’m an undergraduate in Cybersecurity, keen to explore how technology and security intersect.
 # 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/-Java-red" alt="Java" style="zoom:80%;" />![Spring](https://img.shields.io/badge/-Spring-green)![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)![MySQL](https://img.shields.io/badge/-MySQL-blue)![Redis](https://img.shields.io/badge/-Redis-darkred)![Python](https://img.shields.io/badge/-Python-yellow)![Mybatis](https://img.shields.io/badge/-Mybatis-lightblue)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange)![Kafka](https://img.shields.io/badge/-Kafka-black)![Zookeeper](https://img.shields.io/badge/-Zookeeper-darkblue)![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen)![Golang](https://img.shields.io/badge/-Golang-blue)![Golang](https://img.shields.io/badge/-Docker)![Golang](https://img.shields.io/badge/)
+<img src="https://img.shields.io/badge/-Java-red" alt="Java" style="zoom:80%;" />  
+![Spring](https://img.shields.io/badge/-Spring-green)  
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)  
+![MySQL](https://img.shields.io/badge/-MySQL-blue)  
+![Redis](https://img.shields.io/badge/-Redis-darkred)  
+![Python](https://img.shields.io/badge/-Python-yellow)  
+![Mybatis](https://img.shields.io/badge/-Mybatis-lightblue)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange)  
+![Kafka](https://img.shields.io/badge/-Kafka-black)  
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-darkblue)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen)  
+![Golang](https://img.shields.io/badge/-Golang-blue)  
+![Docker](https://img.shields.io/badge/-Docker-blue)  
+![Blockchain](https://img.shields.io/badge/-Blockchain-darkorange)
+
 
 # 📊 GitHub Stats:
 <p>
