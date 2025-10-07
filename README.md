@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 👋 Hi, I’m @crypt0walkerr<br>
-👀 I’m passionate about software development, focusing on Docker, cloud-native systems, Golang, Java, and blockchain.<br>
+👀 I’m passionate about software development, focusing on Blockchain & Web3.0, AI Coding, using Java, Golang, Python, JavaScript.<br>
 🌍 I’m also interested in exploring how technologies apply to Web3, finance, and social governance.<br>
-🌱 Currently, I’m expanding my skills in Java development.<br>
+🌱 Currently, I’m expanding my skills in Java and Web3 development.<br>
 😄 I’m an undergraduate in Cybersecurity, keen to explore how technology and security intersect.
 # 💻 Tech Stack:
 
