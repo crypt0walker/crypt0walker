@@ -11,21 +11,6 @@
 
 
 
-
-
-
-# 📊 GitHub Stats:
-<p>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=crypt0walker&count_private=true&theme=dark&show_icons=true"Python
-    height="165"
-/>
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt0walker&theme=dark&show_icons=true"
-    height="165"
-/>
-</p>
-
 # 📚  Leetcode Stats: 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/crypt0walker?theme=transparent&ext=heatmap&site=cn)
 
