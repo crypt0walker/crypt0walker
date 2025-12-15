@@ -18,6 +18,18 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=crypt0walker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
+<p>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=crypt0walker&count_private=true&theme=dark&show_icons=true"Python
+    height="165"
+/>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt0walker&theme=dark&show_icons=true"
+    height="165"
+/>
+</p>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypt0walker&label=Profile%20views&color=0e75b6&style=flat" alt="crypt0walker" /> </p>
